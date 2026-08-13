@@ -1,8 +1,15 @@
-<div align="center">
+### [EthioLearn](https://github.com/abrham-a1/EthioLearn)
 
-# Hi there, I'm Abrham Abebe 👋
+An **online learning library** providing educational resources and practice materials for Ethiopian high school students.
 
-**Abrham Abebe** · Software Developer · Prompt Engineer · Ethiopia
+- Access to learning resources for Grades 9–12
+- Subject-based textbooks, teacher guides, and learning materials
+- Practice questions across multiple high school subjects
+- Simple and accessible interface designed for Ethiopian students
+
+**Stack:** `HTML` · `CSS` · `JavaScript` · `Git` · `Git LFS`
+
+**Repo:** https://github.com/abrham-a1/EthioLearn
 
 I build practical software across **web development**, **Python backends**, and **AI-assisted workflows** — with a focus on clear interfaces, reliable APIs, and tools people can actually use.
 
