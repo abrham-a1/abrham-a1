@@ -1,26 +1,3 @@
-### [EthioLearn](https://github.com/abrham-a1/EthioLearn)
-
-An **online learning library** providing educational resources and practice materials for Ethiopian high school students.
-
-- Access to learning resources for Grades 9–12
-- Subject-based textbooks, teacher guides, and learning materials
-- Practice questions across multiple high school subjects
-- Simple and accessible interface designed for Ethiopian students
-
-**Stack:** `HTML` · `CSS` · `JavaScript` · `Git` · `Git LFS`
-
-**Repo:** https://github.com/abrham-a1/EthioLearn
-
-I build practical software across **web development**, **Python backends**, and **AI-assisted workflows** — with a focus on clear interfaces, reliable APIs, and tools people can actually use.
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-abrham--a1-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrham-a1)
-[![Profile Views](https://komarev.com/ghpvc/?username=abrham-a1&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/abrham-a1)
-
-</div>
-
----
 
 ## About Me
 
@@ -55,6 +32,30 @@ Technologies I use in active projects, plus languages I work with day to day:
 ---
 
 ## Featured Projects
+### [EthioLearn](https://github.com/abrham-a1/EthioLearn)
+
+An **online learning library** providing educational resources and practice materials for Ethiopian high school students.
+
+- Access to learning resources for Grades 9–12
+- Subject-based textbooks, teacher guides, and learning materials
+- Practice questions across multiple high school subjects
+- Simple and accessible interface designed for Ethiopian students
+
+**Stack:** `HTML` · `CSS` · `JavaScript` · `Git` · `Git LFS`
+
+**Repo:** https://github.com/abrham-a1/EthioLearn
+
+I build practical software across **web development**, **Python backends**, and **AI-assisted workflows** — with a focus on clear interfaces, reliable APIs, and tools people can actually use.
+
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-abrham--a1-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrham-a1)
+[![Profile Views](https://komarev.com/ghpvc/?username=abrham-a1&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/abrham-a1)
+
+</div>
+
+---
+
 
 ### [Trade A1](https://github.com/abrham-a1/trade-a1)
 
